@@ -1,0 +1,19 @@
+{
+  "name": "beginner-html-site-scripted",
+  "version": "1.0.0",
+  "description": "A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics).",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdn/beginner-html-site-scripted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdn/beginner-html-site-scripted/issues"
+  },
+  "homepage": "https://github.com/mdn/beginner-html-site-scripted#readme"
+}
