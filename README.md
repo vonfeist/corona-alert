@@ -1,4 +1,2 @@
-# beginner-html-site-scripted
-A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics). 
-
-[Run the example live](https://mdn.github.io/beginner-html-site-scripted/).
+# Berlin Corona Appointment Updates
+At the time when it was hard to get an appointment for a vaccination, I wrote this little script to alarm me to any new appointments that popped up in Berlin. As the rate of pings was limited, I had semi success finding an appointment for the vaccine though. 
